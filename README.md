@@ -12,7 +12,7 @@ This project applies **Deep Learning and Computer Vision** to automate the detec
 
 The project demonstrates a comprehensive machine learning pipeline, starting from a custom baseline CNN and culminating in a fine-tuned, pre-trained **ResNet50** architecture. A major focus of this project was engineering solutions for **severe dataset class imbalance** and optimizing model capacity for high-variance image data.
 
-## 🛠️ Tech Stack & ATS Keywords
+## 🛠️ Tech Stack
 * **Core Technologies:** Python, TensorFlow, Keras
 * **Deep Learning Techniques:** Convolutional Neural Networks (CNN), Transfer Learning (ResNet50), Artificial Neural Networks (ANN), Image Augmentation, Fine-Tuning.
 * **Data Engineering:** Stratified Train/Test Splitting, Class Weight Balancing, Image Preprocessing (Z-Score Standardization, ImageNet Mean Subtraction).
